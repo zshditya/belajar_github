@@ -1,6 +1,6 @@
 print("hello world")
 
-items = ['mangga', 'kiwi', 'jeruk', 'nanas']
+items = ['one piece', 'naruto', 'sailor moon', 'your lie in april']
 
 for item in items:
   print(item)
