@@ -19,4 +19,4 @@ print("we can do it")
 
 print("popol dan kupa adalah sahabat terbaik di dunia")
 
-print("demi kemuliaan")
+print("legend never surrender")
