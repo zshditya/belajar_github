@@ -16,3 +16,5 @@ print("contoh perubahan2")
 print("contoh perubahan3")
 
 print("we can do it")
+
+print("popol dan kupa adalah sahabat terbaik di dunia")
